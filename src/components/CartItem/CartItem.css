@@ -1,0 +1,27 @@
+
+
+.cartItem{
+    margin: 12px 30px;
+    padding: 12px;
+    border: 1px solid lightblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 0.5rem;
+}
+
+p{
+    font-size: medium;
+}
+
+img{
+    width: 120px;
+    height: 120px;
+}
+.removeBtn{
+    cursor: pointer;
+}
+.itemRate{
+    font-weight: 800;
+    
+}
